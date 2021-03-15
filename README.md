@@ -6,7 +6,11 @@
 
 I made this project as it my first projet in github just for fun, it allows me demonstrate my technical skill in cloud computing. Very soon I am going to upload several projects that will help me strengthen my ability of doing the right things at the right time.
 
-Skills: AWS, Microsoft 365, CCNA
+##Skills and Experience: 
+* ⛈ AWS
+* 💻 Microsoft 365
+* 🖱 CCNA
+* ⌨ Route 53, DNS, VPC Peering
 
 - 🔭 I’m currently working on AWS Projects 
 - 🌱 I’m currently learning Terraform 
