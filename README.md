@@ -1,8 +1,10 @@
-### Hi there 👋, my name is Roble
-#### I am Cloud Computing Engineer.
+
 ![I am Cloud Computing Engineer.](https://github.com/MoRoble/MoRoble/blob/main/PicsArt_03-10-12.13.17.jpg)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
+### Hi there 👋, my name is Roble
+#### I am Cloud Computing Engineer.
+
+I made this project as it my first projet in github just for fun, it allows me demonstrate my technical skill in cloud computing. Very soon I am going to upload several projects that will help me strengthen my ability of doing the right things at the right time.
 
 Skills: AWS, Microsoft 365, CCNA
 
