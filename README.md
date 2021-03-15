@@ -1,4 +1,12 @@
-### Hi there 👋
+### Hi there 👋, my name is Roble
+#### I am Cloud Computing Engineer.
+![I am Cloud Computing Engineer.](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
+
+I made this project just as it is my first time being in Github, it allows you to practice your cloud computing technical skills, and demonstrate your ability of architecting and orchestration to the cloud.
+
+Skills: AWS, Microsoft 365, CCNA
+
+- 🔭 I’m currently working on AWS Projects. 
 
 <!--
 **MoRoble/MoRoble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
