@@ -4,7 +4,9 @@
 ### Hi there 👋, my name is Roble
 #### I am Cloud Computing Engineer.
 
-I made this project as it my first projet in github just for fun, it allows me demonstrate my technical skill in cloud computing. Very soon I am going to upload several projects that will help me strengthen my ability of doing the right things at the right time.
+I made this project as it my first projet in github just for fun, it allows me demonstrate my technical skill in cloud computing. Very soon I am going to upload several projects that will help me strengthen my ability of doing the right things at the right time. 
+
+I will be assuming Hodan School as part of my project scenarios. 
 
 ##Skills and Experience: 
 * ⛈ AWS
