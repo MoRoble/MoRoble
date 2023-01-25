@@ -16,7 +16,7 @@ Currently working with BJSS to deliver high-quality and scalable solutions.
 
 
 -------------
-*i in my previous studies /*
+*in my previous studies*
 
 I am passionate about technology and the role it plays in enabling businesses to achieve their goals. I am excited to continue to grow my career in the field of DevOps and look forward to contributing to the success of future projects and teams.
 
