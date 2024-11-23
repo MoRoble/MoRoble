@@ -42,7 +42,7 @@ I will be assuming Hodan School as part of my project scenarios.
 
 📫 Let's connect!
 
-[My Infrastructure](https://github.com/MoRoble/MoRoble/blob/d7c69e163569d5d3204d9689a99a3ba5414d2d0e/infra-study.png)
+![My Infrastructure](https://github.com/MoRoble/MoRoble/blob/d7c69e163569d5d3204d9689a99a3ba5414d2d0e/infra-study.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MoRoble)  
 
