@@ -1,18 +1,15 @@
 
 ![I am Cloud Computing Engineer.](https://github.com/MoRoble/MoRoble/blob/main/PicsArt_03-10-12.13.17.jpg)
 
-### Hi there 👋, my name is Roble
-#### I am Cloud Computing Engineer.
+#### 👋 Hi there, I'm Roble, a Cloud Computing Engineer with a passion for building and managing scalable, reliable infrastructure.
 
-I am a Junior DevOps Engineer with experience in deploying and managing infrastructure using HashiCorp Terraform and Jenkins. Proficient in AWS services such as CloudWatch, S3, DynamoDB, VPC, EC2, IAM Users & Roles, Lambda and serverless architecture. Skilled in using Docker and Linux, with experience in a widely-used open-source implementation of the Lightweight Directory Access Protocol known as LDAP. 
+Based on my experience with AWS services and the ability to manage them effectively, I am proficient in services such as CloudWatch, Amazon S3, RDS, VPC, EC2, IAM users and roles, Lambda, and Amazon EventBridge. I also have experience deploying and managing infrastructure using HashiCorp Terraform and Jenkins. With Terraform, I can write complete infrastructure configurations, applying the landing zone accelerator approach. This facilitates the adoption of new infrastructure and migration to the cloud with minimal time required, making it production-ready. Terraform also helps manage infrastructure as code to avoid manual configuration and enables scaling of infrastructure. 
 
-In addition to my technical skills, I am also well-versed in Agile methodologies and use tools such as Jira to manage and track tasks and projects. I understand the importance of clear and concise documentation and use Confluence to document processes and procedures. This helps ensure that all team members have a clear understanding of what needs to be done, how it needs to be done, and when it needs to be done. 
+In addition to my technical skills, I am well-versed in Agile methodologies and use tools like Jira to manage and track tasks and projects. I understand the importance of clear and concise documentation and use Confluence to document processes and procedures. This ensures that all team members have a clear understanding of what needs to be done, how it needs to be done, and when it needs to be done.
 
-I also use Drow.io to draw AWS architecture diagrams, this helps me to visualize and communicate the infrastructure design and dependencies to the team members and stakeholders. This improves the efficiency of the team and ensures that projects are delivered on time, on budget, and to the highest quality. Overall, I believe that good documentation and use of agile methodologies, along with visualization tools such as Drow.io, are key to delivering successful projects and I make sure to apply them in my daily work.
+I also use draw.io to create AWS architecture diagrams, which helps me visualize and communicate infrastructure design and dependencies to team members and stakeholders. This improves team efficiency and ensures that projects are delivered on time, within budget, and to the highest quality. I believe that good documentation, Agile methodologies, and visualization tools like draw.io are key to delivering successful projects, and I apply them in my daily work.
 
-Currently working with BJSS to deliver high-quality and scalable solutions.
-
-
+🚀 I'm currently working with BJSS, where I leverage my expertise in AWS cloud technologies and DevOps practices to deliver high-quality solutions.
 
 
 -------------
@@ -26,16 +23,26 @@ I made this project as it my first projet in github just for fun, it allows me d
 I will be assuming Hodan School as part of my project scenarios. 
 
 ##Skills and Experience: 
-* ⛈ AWS
-* 💻 Microsoft 365
-* 🖱 Terraform
-* ⌨ Ansible, Jenkins, Docker
+* ☁️  AWS (ECS, CloudWatch, S3, DynamoDB, VPC, EC2, IAM, Lambda, EventBridge)
+* 🏗️ Infrastructure as Code (Terraform)
+* 🤖  CI/CD (Jenkins, CodePipeline) 
+* 🐳  Containers (Docker)
+* 🐧  Linux
+* 🔄  Configuration Management (Ansible)
+* 📈  Monitoring & Observability
+* 🤝  Agile & Collaboration (Jira, Confluence)
 
-- 🔭 I’m currently working on AWS Projects 
-- 🌱 I’m currently learning Databricks 
-- 👯 I’m looking to collaborate on Cloud Computing 
-- 🤔 I’m looking for help with coding 
+🔭 I’m currently working on AWS infrastructure projects, focusing on automation and scalability.
+🌱 I’m currently learning advanced AWS services and features to enhance cloud solutions.
+👯 I’m looking to collaborate on AWS cloud architecture and DevOps practices.
+🤔 I’m looking for help with optimizing cloud infrastructure and implementing best practices. 
 
+
+🌱 I'm always eager to learn and explore new technologies in the ever-evolving cloud landscape.
+
+📫 Let's connect!
+
+[My Infrastructure](https://github.com/MoRoble/MoRoble/blob/d7c69e163569d5d3204d9689a99a3ba5414d2d0e/infra-study.png)
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/MoRoble)  
 
