@@ -22,7 +22,7 @@ I made this project as it my first projet in github just for fun, it allows me d
 
 I will be assuming Hodan School as part of my project scenarios. 
 
-##Skills and Experience: 
+## Skills and Experience: 
 * ☁️  AWS (ECS, CloudWatch, S3, DynamoDB, VPC, EC2, IAM, Lambda, EventBridge)
 * 🏗️ Infrastructure as Code (Terraform)
 * 🤖  CI/CD (Jenkins, CodePipeline) 
