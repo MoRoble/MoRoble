@@ -39,7 +39,7 @@ Currently working at BJSS-CGI, my experience includes:
 ### 🧰 Tools & Practices
 - 🗂️ **Version Control:** Git, GitHub, Bitbucket  
 - 🤝 **Agile Workflow:** Jira, Confluence
-- 🛡️ **Secutrity:** IAM, OIDC federation, Security Groups, Vault, WAF, NACL
+- 🛡️ **Security:** IAM, OIDC federation, Security Groups, Vault, WAF, NACL
 - 🧩 **Architecture Design:** draw.io, Lucidchart  
 
 ## 💬 A Bit More About Me
